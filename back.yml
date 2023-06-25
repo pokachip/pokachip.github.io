@@ -1,0 +1,25 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          My Blog
+paginate:       5
+baseurl:        ''
+url:            "https://username.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         FirstName LastName
+  email:        example@gmail.com
+
+# Gems -> plugins
+plugins:
+  - jekyll-paginate 
