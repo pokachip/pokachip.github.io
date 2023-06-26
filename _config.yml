@@ -19,14 +19,17 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+   KANG:
       name:           JINHYEOK KANG
       site:           https://pokachip.github.io
       avatar:         /assets/images/jinhyeok.jpeg
-      bio:            "Wi-Fi, Bluetooth hardware enginner"
-                      "FW 등 software 공부 중"
+      bio:            "Wi-Fi, Bluetooth hardware engineer<br>FW 등 software 공부 중"
+      location:       경기도 성남시
       email:          mochapott@icloud.com
-      instagram:      https://instagram.com/2402mhz?igshid=NTc4MTIwNjQ2YQ==
+      links:
+        - label: "Instagram"
+          icon : "fab fa-fw fa-2402mhz"
+          url  : "https://instagram.com/2402mhz?igshid=NTc4MTIwNjQ2YQ=="
 
  
 # Defaults
@@ -37,7 +40,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: KANG
       avatar: /assets/images/jinhyeok.jpeg
       
   # all pages
