@@ -23,7 +23,7 @@ authors:
       name:           JINHYEOK KANG
       site:           https://pokachip.github.io
       avatar:         /assets/images/jinhyeok.jpeg
-      bio:            "Test"
+      bio:            "Wi-Fi, Bluetooth hardware enginner \n FW 등 software 공부 중"
       email:          mochapott@icloud.com
       instagram:      https://instagram.com/2402mhz?igshid=NTc4MTIwNjQ2YQ==
 
@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/jinhyeok.jpeg
       
   # all pages
   - scope:
