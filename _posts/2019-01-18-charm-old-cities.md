@@ -4,7 +4,7 @@ title:  "Macbook Air M2"
 author: KANG
 categories: [ 보유목록 ]
 image: assets/images/MACBOOK.jpg
-tags: [sticky]
+tags: [macbook],[m2]
 ---
 
 오랜 고민 끝에 Macbook Air M2 구매를 완료하였다.  
@@ -24,7 +24,7 @@ tags: [sticky]
 가성비인 중고 m1 맥북에어도 있었지만 새로운 폼펙터의 m2 에어가 끌려서 결국 사버리고 말았다.  
 </span>
   
-  
+
 #### 마음을 편안하게 해주는 연동성  
 <span style="font-size:11pt">
 기존에 누리던 애플의 연동성은 그냥 아이폰에서 url을 복사하여 아이패드에 붙여넣기하는 것이 다였다.  
