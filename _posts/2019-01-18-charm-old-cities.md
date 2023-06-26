@@ -4,12 +4,11 @@ title:  "Macbook Air M2"
 author: KANG
 categories: [ 보유목록 ]
 image: assets/images/MACBOOK.jpg
-tags: [macbook],[m2]
+tags: [macbook]
 ---
 
 오랜 고민 끝에 Macbook Air M2 구매를 완료하였다.  
   
-    
       
 
 <br>
@@ -37,4 +36,4 @@ tags: [macbook],[m2]
 </span>
   
 
-![move](pic1.png)
+![move](./pic1.png)
