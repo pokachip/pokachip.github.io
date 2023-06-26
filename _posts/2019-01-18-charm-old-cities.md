@@ -5,10 +5,11 @@ author: KANG
 categories: [ 보유목록 ]
 image: assets/images/MACBOOK.jpg
 tags: [macbook]
+published: true
 ---
 
 오랜 고민 끝에 Macbook Air M2 구매를 완료하였다.  
-  
+
   
 
 #### Macbook Air M2를 사기 까지...  
