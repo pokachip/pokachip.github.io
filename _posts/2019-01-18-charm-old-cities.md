@@ -8,9 +8,8 @@ tags: [macbook]
 ---
 
 오랜 고민 끝에 Macbook Air M2 구매를 완료하였다.  
-  
-      
 <br>  
+  
 
 #### Macbook Air M2를 사기 까지...  
 <span style="font-size:11pt"> 
