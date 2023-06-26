@@ -2,7 +2,7 @@
 layout: post
 title:  "Macbook Air M2"
 author: KANG
-categories: [ 보유목록 ]
+categories: [ Jekyll, tutorial ]
 image: assets/images/MACBOOK.jpg
 tags: [macbook]
 published: true
@@ -35,4 +35,4 @@ published: true
 다른 화면에 보내고자하는 창들을 끌어서 옮길 필요가 없이 윈도우 탭에서 이동을 클릭하면 된다.
 </span>
   
-![pic](https://github.com/pokachip/uploadurl/blob/main/pic.png?raw=true)
+![alt text](https://github.com/pokachip/uploadurl/blob/main/pic.png?raw=true)
