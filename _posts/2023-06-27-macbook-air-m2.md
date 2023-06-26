@@ -35,4 +35,4 @@ published: true
 다른 화면에 보내고자하는 창들을 끌어서 옮길 필요가 없이 윈도우 탭에서 이동을 클릭하면 된다.
 </span>
   
-![pic](./pic.png)
+![pic](https://github.com/pokachip/uploadurl/blob/main/pic.png?raw=true)
