@@ -36,4 +36,4 @@ tags: [macbook]
 </span>
   
 
-![move](./pic1.png)
+![alt text](./pic1.PNG)
