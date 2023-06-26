@@ -2,7 +2,7 @@
 layout: post
 title:  "Macbook Air M2"
 author: KANG
-categories: [ 보유목록 ]
+categories: [ Jekyll, tutorial ]
 image: assets/images/MACBOOK.jpg
 tags: [macbook]
 published: true
