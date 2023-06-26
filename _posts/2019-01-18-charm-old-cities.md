@@ -10,8 +10,8 @@ tags: [macbook]
 오랜 고민 끝에 Macbook Air M2 구매를 완료하였다.  
   
       
+<br>  
 
-<br>
 #### Macbook Air M2를 사기 까지...  
 <span style="font-size:11pt"> 
 기존에는 윈도우 노트북, 데스크탑의 화면에 공부할 내용을 띄어놓고 아이패드에서 필요한 내용을  
@@ -35,3 +35,4 @@ tags: [macbook]
 다른 화면에 보내고자하는 창들을 끌어서 옮길 필요가 없이 윈도우 탭에서 이동을 클릭하면 된다.
 </span>
   
+![alt text](./pic1.png)
