@@ -1,5 +1,6 @@
 # Site
 title: 'SW 공부 용 BLOG'
+title_separator: '|'
 name: 'JINHYEOK KANG'
 description: 'Test with MAC'
 logo: 'assets/images/logo.png'
