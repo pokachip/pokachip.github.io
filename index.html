@@ -17,16 +17,9 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 <div class="row remove-site-content-margin">
     
     <!-- latest post -->
-
-
-
-
-
-
-
-    {%for post in site.main_posts %}
+    {% for post in site.posts %}
     {% if post.tags contains "main" %}
-        <div class="col-md-6">
+    <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{post.url}}">
     <div class="topfirstimage" style="background-image: url({% if post.image contains "://" %}{{ post.image }}{% else %} {{site.baseurl}}/{{ post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
