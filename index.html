@@ -17,9 +17,9 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 <div class="row remove-site-content-margin">
     
     <!-- latest post -->
-    <!--{% assign latest_post = site.posts[0] %} -->
-    {% for latest_post in site.posts %} 
-    {% if post.tags contains "main" %}
+    {% assign latest_post = site.posts[0] %}
+    <!--{% for latest_post in site.posts %} 
+    {% if post.tags contains "main" %} -->
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -47,8 +47,8 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     </div>
     </div>
     </div>
-    {% endif %}
-    {% endfor %}
+    <!--{% endif %}
+    {% endfor %}-->
 
     <div class="col-md-6">
         
