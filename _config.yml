@@ -5,8 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://pokachip.github.io'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'mochapott@icloud.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -23,7 +22,7 @@ authors:
       name:           JINHYEOK KANG
       site:           https://pokachip.github.io
       avatar:         /assets/images/jinhyeok.jpeg
-      bio:            "Wi-Fi, Bluetooth hardware engineer<br>FW 등 software 공부 중"
+      bio:            "4년 차 Wi-Fi, Bluetooth hardware engineer<br>FW 등 software 공부 중"
       location:       경기도 성남시
       email:          mochapott@icloud.com
       links:
