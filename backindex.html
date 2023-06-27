@@ -18,6 +18,8 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
+    <!--{% for latest_post in site.posts %} 
+    {% if post.tags contains "main" %} -->
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -33,19 +35,21 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
-                {% for category in latest_post.categories %}
+                {% for category in post.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
+            {{ post.date | date: '%b %d, %Y' }}
         </small>
     </div>
     </div>
     </div>
     </div>
-    
+    <!--{% endif %}
+    {% endfor %}-->
+
     <div class="col-md-6">
         
         <!-- second latest post -->
