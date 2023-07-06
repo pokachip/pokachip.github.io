@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "신일 S9 에어서큘레이터 후기"
+changefreq : daily
+priority : 1.0
 author: KANG
 categories: [ 구매기 ]
 image: assets/images/air_cir/shot1.jpg

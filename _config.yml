@@ -5,7 +5,7 @@ name: 'JINHYEOK KANG'
 description: 'Test with MAC'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://pokachip.github.io'
+url: 'https://pokachip.github.io'
 disqus: 'demowebsite'
 email: 'mochapott@icloud.com'
 
@@ -14,8 +14,6 @@ permalink: /:title/
 
 # Plugins
 plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
   
