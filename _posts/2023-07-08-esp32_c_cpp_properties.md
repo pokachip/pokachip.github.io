@@ -23,7 +23,7 @@ vscode를 이용한 esp32 example 빌드 중에 아래와 같이 header와 값�
 아래는 기존 에러가 발생하던 코드.
 </span>
   
-'''c_cpp_properties.json
+```c_cpp_properties.json
 {
     "configurations": [
         {
@@ -51,14 +51,14 @@ vscode를 이용한 esp32 example 빌드 중에 아래와 같이 header와 값�
     ],
     "version": 4
 }
-'''
+```
 
 #### 해결 방법  
 <span style="font-size:11pt">
 c_cpp_properties.json 내용을 아래와 같이 수정.  
 compilerPath는 기존 code의 것을 사용.
 </span>
-'''c_cpp_properties.json
+```c_cpp_properties.json
 {
     "configurations": [
       {
@@ -89,7 +89,7 @@ compilerPath는 기존 code의 것을 사용.
     ],
     "version": 4
   }
-'''
+```
 
 <span style="font-size:11pt">
 정보 출처 : https://github.com/espressif/vscode-esp-idf-extension/issues/672
